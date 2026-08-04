@@ -435,6 +435,8 @@ In the future, I'd like to have a list of resources for more specific topics or 
  - 'how do i deal with support'
  - 'types of digital products'
  - 'legal aspects'
+ - 'financial tools for indie businesses'
+   - **[SmartBizCalc](https://smartbizcalc.com)** - 380+ free calculators for small business owners: break-even, EBITDA, S-corp tax savings, startup cost, self-employment tax, contractor pricing. No signup required.
  <!-- https://termsfeed.com -->
  - 'typical mistakes'
  <!-- https://www.47hats.com/2017/05/10/startup-mistake-1-anonymous-startup/ -->
