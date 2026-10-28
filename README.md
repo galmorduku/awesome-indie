@@ -415,6 +415,10 @@ Again, I'm not quite fond of listing [$] products made by indie developers targe
 <!-- https://www.appsumo.com/how-to-make-your-first-dollar/ -->
 <!-- https://fizzle.co/ -->
 
+- **[SmartBizCalc](https://www.smartbizcalc.com/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-indie)**
+
+  Free calculators for indie founders and small business owners: contractor pricing, break-even analysis, profit margins, self-employment tax, payroll, and 700+ more. By [Gal Mordechai](https://github.com/galmorduku/).
+
 ## Specific topics
 
 In the future, I'd like to have a list of resources for more specific topics or FAQs such as: 
